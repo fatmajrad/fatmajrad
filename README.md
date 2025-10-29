@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/fatma-jrad/fatma-jrad/blob/main/LinkedIn%20Banner.png" width="100%" alt="Fatma Jrad Banner">
+  <img src="https://github.com/fatmajrad/fatmajrad/blob/main/LinkedIn%20Banner.png" width="100%" alt="Fatma Jrad Banner">
 </p>
 
 <!-- Header -->
@@ -16,7 +16,7 @@
 ---
 
 <!-- Profile Image (Feminine Version) -->
-<img align="right" src="https://cdn.pixabay.com/photo/2020/06/18/17/02/girl-5313481_1280.png" alt="Profile Image" width="260" style="border-radius: 25px;"/>
+<img align="right" src="https://github.com/fatmajrad/fatmajrad/blob/main/background.gif" alt="Profile Image" width="260" style="border-radius: 25px;"/>
 
 - 🎓 **Software Architecture Engineer** — Graduated from **ESPRIT**  
 - 💻 Passionate about **Web Development, Automation, and Creative Problem-Solving**  
@@ -145,6 +145,10 @@ With a solid background in **full-stack web development**, I thrive on building 
   <img alt="visitors counter" src="https://views-counter.vercel.app/badge?pageId=fatma-jrad%2FViews-Counter">
   <img src="https://media.tenor.com/KI3lPO0zZ4AAAAAC/pink-sparkles.gif" width="35">
 </div>
+
+<p align="center">
+  <img src="https://tenor.com/bV4Om.gif" width="100%" alt="Fatma Jrad Banner">
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,100:E6E6FA&height=100&section=footer" alt="Footer" width="100%"/>
