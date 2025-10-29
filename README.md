@@ -6,12 +6,32 @@
 <!-- Header -->
 <div align="center">
   <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-  <h1>
-    <b>Hey there 💕 I'm <a href="https://www.linkedin.com/in/fatma-jrad-ba2b26216">Fatma Jrad</a></b>
-    <img src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" width="45" alt="cute-gif">
-  </h1>
-  <h3><img src="https://media.giphy.com/media/3o6ZsY3o0i7XqFvYqE/giphy.gif" width="22" alt="flower"> &nbsp; Full-Stack Developer | Web & Backend Enthusiast | Software Engineering Graduate</h3>
+
+  <p align="center" style="margin: 0; padding: 0;">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=26&duration=4500&pause=500&color=D9BED1&center=true&vCenter=true&width=600&lines=Hello%2C+it's+Fatma+Jrad;Full-Stack+Developer;Software+engineer" alt="Full-Stack Developer"/>
+    </a>
+  </p>
+
+  <h3 align="center">
+    🌸✨💻 &nbsp; Full-Stack Developer | Web & Backend Enthusiast | Software Engineering Graduate 💕🌷💫
+  </h3>
 </div>
+
+
+<div align="center">
+  <pre>
+  ███████╗ █████╗ ████████╗███╗   ███╗ █████╗
+  ██╔════╝██╔══██╗╚══██╔══╝████╗ ████║██╔══██╗
+  █████╗  ███████║   ██║   ██╔████╔██║███████║
+  ██╔══╝  ██╔══██║   ██║   ██║╚██╔╝██║██╔══██║
+  ██║     ██║  ██║   ██║   ██║ ╚═╝ ██║██║  ██║
+  ╚═╝     ╚═╝  ╚═╝   ╚═╝   ╚═╝     ╚═╝╚═╝  ╚═╝
+  </pre>
+</div>
+
+
+
 
 ---
 
@@ -38,7 +58,7 @@ With a solid background in **full-stack web development**, I thrive on building 
 
 ---
 
-### <img src="https://media.giphy.com/media/jt7bAtEijhurm/giphy.gif" width="35" alt="briefcase"> Professional Journey
+### <img src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" width="45" alt="cute-gif"> Professional Journey
 
 #### 💻 **Full-Stack Developer Intern — Bank Project (Jan 2025 – Jun 2025)**
 - Development and maintenance of an existing banking platform  
